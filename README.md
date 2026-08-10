@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/Version-1.4.0-orange)
 
 ## 🚀 Download
-👉 ** 📦 [![⬇ Download](https://img.shields.io/badge/⬇%20Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/download/v1.4.0.0/OvenTrioStudio-v1.4.0.0-win-x64.zip)
+👉 📦 [![Download](https://img.shields.io/badge/%20Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/download/v1.4.0.0/OvenTrioStudio-v1.4.0-win-x64.zip)
 
 [![Releases](https://img.shields.io/badge/View-All%20Releases-181717?style=for-the-badge&logo=github)](https://github.com/Roman-git-hub/OvenTrioStudio/releases)
 
