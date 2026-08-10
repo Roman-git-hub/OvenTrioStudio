@@ -1,7 +1,7 @@
 ![.NET](https://img.shields.io/badge/.NET-8.0-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
-![Version](https://img.shields.io/badge/Version-1.2.0-orange)
+![Version](https://img.shields.io/badge/Version-1.4.0-orange)
 
 ## 🚀 Download
 👉 ** 📦 [![⬇ Download](https://img.shields.io/badge/⬇%20Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/download/v1.4.0.0/OvenTrioStudio-v1.4.0.0-win-x64.zip)
