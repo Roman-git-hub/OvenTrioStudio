@@ -4,11 +4,11 @@
 ![Version](https://img.shields.io/badge/Version-1.2.0-orange)
 
 ## 🚀 Download
-👉 ** 📦 [![⬇ Download](https://img.shields.io/badge/⬇%20Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/FrameForgeStudio/releases/download/v1.3.0.0/FrameForgeStudio-v1.3.0.0-win-x64.zip)
+👉 ** 📦 [![⬇ Download](https://img.shields.io/badge/⬇%20Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/download/v1.4.0.0/OvenTrioStudio-v1.4.0.0-win-x64.zip)
 
-[![Releases](https://img.shields.io/badge/View-All%20Releases-181717?style=for-the-badge&logo=github)](https://github.com/Roman-git-hub/FrameForgeStudio/releases)
+[![Releases](https://img.shields.io/badge/View-All%20Releases-181717?style=for-the-badge&logo=github)](https://github.com/Roman-git-hub/OvenTrioStudio/releases)
 
-# 🎬 Frame Forge Studio
+# 🎬 Oven Trio Studio
 
 Smart media processing studio powered by FFmpeg.  
 Download. Trim. Analyze. Render.
@@ -44,9 +44,9 @@ Download. Trim. Analyze. Render.
 
 ---
 
-## 🚀 Why Frame Forge Studio?
+## 🚀 Why Oven Trio Studio?
 
-Frame Forge Studio is designed for creators who need:
+Oven Trio Studio is designed for creators who need:
 
 - Fast cutting without quality loss  
 - Precise frame-level trimming  
@@ -62,7 +62,7 @@ Built with **.NET 8 (WPF)** and powered by **FFmpeg**.
 
 👉 Go to **Releases** and download the latest version.
 
-Latest version: **v1.3.0.0**
+Latest version: **v1.4.0.0**
 
 ---
 
@@ -70,13 +70,13 @@ Latest version: **v1.3.0.0**
 
 ## 💬 Support & Community
 
-If Frame Forge Studio helps you create, you can support its development:
+If Oven Trio Studio helps you create, you can support its development:
 
 ☕ **Buy Me a Coffee**  
-https://buymeacoffee.com/frameforgestudio
+https://buymeacoffee.com/oventriostudio
 
 💬 **Official Telegram Community**  
-https://t.me/frameforge_support  
+https://t.me/oventrio_support  
 
 📧 **Direct Email**  
 Roman_Web@outlook.com  
@@ -97,4 +97,4 @@ This application uses FFmpeg under LGPL license.
 
 ---
 
-© 2026 Frame Forge Studio
+© 2026 Oven Trio Studio
