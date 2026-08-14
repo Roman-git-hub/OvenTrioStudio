@@ -1,8 +1,9 @@
 ## 🚀 Download
 
-👉 📦 [![Download](https://img.shields.io/badge/Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/latest/download/OvenTrioStudio-v1.4.0-win-x64.zip)
+👉 📦 [![Download](https://img.shields.io/badge/Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/latest/download/OvenTrioStudio-v1.5.0-win-x64.zip)
 
 [![Releases](https://img.shields.io/badge/View-All%20Releases-181717?style=for-the-badge&logo=github)](https://github.com/Roman-git-hub/OvenTrioStudio/releases)
+
 # 🎬 Oven Trio Studio
 
 **Download. Inspect. Edit.**
@@ -27,6 +28,7 @@ media workflows in one application:
 - Video or Audio-only mode
 - MKV / WEBM workflow options
 - FFmpeg-based media processing
+- Improved download startup and loading performance
 
 ### 🔍 File Info & Analysis
 
@@ -36,6 +38,7 @@ media workflows in one application:
 - Resolution and bitrate
 - Duration and technical properties
 - Metadata inspection
+- Correct video preview thumbnail display
 
 ### 🎬 Audio & Video Editor
 
@@ -48,6 +51,18 @@ media workflows in one application:
 - ⚡ **SMART mode** — fast cutting without re-encoding when possible
 - 🎯 **PRECISE mode** — accurate encoding via libx264
 - Fast FFmpeg processing and concatenation
+
+### 🔗 URL History
+
+- Recent URL history directly on the download screen
+- Quick access to previously used URLs
+- YouTube thumbnail previews
+- Automatic duplicate detection
+- Previously used URLs are moved to the top
+- Up to 20 recent URLs are stored
+- History persists between application restarts
+- Selecting a history entry fills the URL field without starting a download
+- One-click history clearing
 
 ---
 
@@ -67,25 +82,34 @@ in the same application.
 - Precise trimming
 - Original stream preservation when possible
 - Local processing with no cloud dependency
+- Persistent URL history for frequently used sources
 - Clean and focused Windows workflow
 
 ---
 
-## 🆕 What's New in v1.4.0
+## 🆕 What's New in v1.5.0
 
-### 🎬 Video Preview & Editing
+### 🔗 URL History
 
-Version 1.4.0 introduces a full visual video editing workflow.
+Version 1.5.0 introduces URL history directly into the download interface.
 
-- Full video preview
-- Video timeline
-- Synchronized audio/video playback
-- Frame-accurate positioning
-- Video trimming and editing
-- Integrated preview while editing
+- Store recently used URLs
+- Quickly access previously used URLs
+- YouTube thumbnail previews
+- Duplicate URLs are automatically moved to the top
+- Up to 20 recent URLs are retained
+- History persists between application launches
+- Selecting a history entry does not start a download
+- Clear history with one click
 
-The previous version focused primarily on audio-oriented editing workflows.
-Version 1.4.0 expands the editor into a full audio/video workflow.
+### 🔍 File Info
+
+- Fixed video preview thumbnail display
+- Improved preview loading and presentation
+
+### ⚡ Performance
+
+- Improved download startup and loading performance
 
 ---
 
@@ -93,7 +117,7 @@ Version 1.4.0 expands the editor into a full audio/video workflow.
 
 👉 Go to **[Releases](../../releases)** and download the latest version.
 
-**Latest version: v1.4.0.0**
+**Latest version: v1.5.0**
 
 ### Windows
 
