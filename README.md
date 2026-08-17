@@ -1,6 +1,6 @@
 ## 🚀 Download
 
-👉 📦 [![Download](https://img.shields.io/badge/Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/latest/download/OvenTrioStudio-v1.6.0-win-x64.zip)
+👉 📦 [![Download](https://img.shields.io/badge/Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/latest/download/OvenTrioStudio-v1.6.1-win-x64.zip)
 
 [![Releases](https://img.shields.io/badge/View-All%20Releases-181717?style=for-the-badge&logo=github)](https://github.com/Roman-git-hub/OvenTrioStudio/releases)
 
@@ -87,11 +87,11 @@ in the same application.
 
 ---
 
-## 🆕 What's New in v1.6.0
+## 🆕 What's New in v1.6.1
 
 ### 🔗 URL History
 
-Version 1.6.0 introduces URL history directly into the download interface.
+Version 1.6.1 introduces URL history directly into the download interface.
 
 - Store recently used URLs
 - Quickly access previously used URLs
@@ -117,7 +117,7 @@ Version 1.6.0 introduces URL history directly into the download interface.
 
 👉 Go to **[Releases](../../releases)** and download the latest version.
 
-**Latest version: v1.6.0**
+**Latest version: v1.6.1**
 
 ### Windows
 
