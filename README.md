@@ -1,6 +1,6 @@
 ## 🚀 Download
 
-👉 📦 [![Download](https://img.shields.io/badge/Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/latest/download/OvenTrioStudio-v1.7.0-win-x64.zip)
+👉 📦 [![Download](https://img.shields.io/badge/Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/latest/download/OvenTrioStudio-v1.8.0-win-x64.zip)
 
 [![Releases](https://img.shields.io/badge/View-All%20Releases-181717?style=for-the-badge&logo=github)](https://github.com/Roman-git-hub/OvenTrioStudio/releases)
 
@@ -106,11 +106,11 @@ or record your screen and application windows in the same application.
 
 ---
 
-## 🆕 What's New in v1.7.0
+## 🆕 What's New in v1.8.0
 
 ### 🎥 Screen & Window Recording
 
-Version 1.7.0 introduces the native Recording Engine for screen,
+Version 1.8.0 introduces the native Recording Engine for screen,
 window and system audio capture.
 
 - Record the entire screen
@@ -152,7 +152,7 @@ window and system audio capture.
 
 👉 Go to **[Releases](../../releases)** and download the latest version.
 
-**Latest version: v1.7.0**
+**Latest version: v1.8.0**
 
 ### Windows
 
