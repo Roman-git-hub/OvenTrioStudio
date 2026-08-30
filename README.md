@@ -11,7 +11,7 @@
 Oven Trio Studio is a Windows media toolkit that combines four essential
 media workflows in one application:
 
-- 📥 **Downloader** — download media from supported online sources.
+- 📥 **Downloader** — download media from supported online sources, including live streams.
 - 🔍 **File Info** — inspect media streams, codecs, metadata and technical details.
 - ✂️ **Editor** — trim and edit audio and video with waveform and video preview.
 - 🎥 **Recorder** — record screen, individual windows and system audio with synchronized video and audio capture.
@@ -22,12 +22,13 @@ media workflows in one application:
 
 ## 🚀 Core Capabilities
 
-### 📥 Download
+### 📥 Download & Live Streaming
 
 - Load media from supported online sources
 - High-quality stream selection up to 2160p
 - Video or Audio-only mode
-- MKV / WEBM workflow options
+- **Record and save live online streams while they are being broadcast**
+- MKV / MP4 / MP4+ / WEBM / MP3 / WAV / FLAC / ACC workflow options
 - FFmpeg-based media processing
 - Improved download startup and loading performance
 
