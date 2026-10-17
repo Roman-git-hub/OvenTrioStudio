@@ -1,6 +1,6 @@
 ## 🚀 Download
 
-👉 📦 [![Download](https://img.shields.io/badge/Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/latest/download/OvenTrioStudio-v2.2.0-win-x64.zip)
+👉 📦 [![Download](https://img.shields.io/badge/Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/latest/download/OvenTrioStudio-v2.3.0-win-x64.zip)
 
 [![Releases](https://img.shields.io/badge/View-All%20Releases-181717?style=for-the-badge&logo=github)](https://github.com/Roman-git-hub/OvenTrioStudio/releases)
 
@@ -8,13 +8,12 @@
 
 **Download. Inspect. Edit.**
 
-Oven Trio Studio is a Windows media toolkit that combines four essential
-media workflows in one application:
+Oven Trio Studio is a Windows media toolkit that combines four essential media workflows in one application:
 
 - 📥 **Downloader** — download media from supported online sources, including live streams.
 - 🔍 **File Info** — inspect media streams, codecs, metadata and technical details.
 - ✂️ **Editor** — trim and edit audio and video with waveform and video preview.
-- 🎥 **Recorder** — record screen, individual windows and system audio with synchronized video and audio capture.
+- 🎥 **Recorder** — record screens, individual windows and system audio with synchronized video and audio capture.
 
 > One application for downloading, understanding, editing and recording your media.
 
@@ -24,167 +23,124 @@ media workflows in one application:
 
 ### 📥 Download & Live Streaming
 
-- Load media from supported online sources
-- High-quality stream selection up to 2160p
-- Video or Audio-only mode
-- **Record and save live online streams while they are being broadcast**
-- MKV / MP4 / MP4+ / WEBM / MP3 / WAV / FLAC / ACC workflow options
-- FFmpeg-based media processing
-- Improved download startup and loading performance
+- Load media from supported online sources.
+- Select streams up to 2160p.
+- Choose Video or Audio-only mode.
+- Record and save live online streams while they are being broadcast.
+- Work with MKV / MP4 / MP4+ / WEBM / MP3 / WAV / FLAC / AAC formats.
+- Process media with FFmpeg.
+- Improved download startup and loading performance.
 
 ### 🔍 File Info & Analysis
 
-- Detailed media information
-- Audio and video stream inspection
-- Codec information
-- Resolution and bitrate
-- Duration and technical properties
-- Metadata inspection
-- Correct video preview thumbnail display
+- View detailed media information and metadata.
+- Inspect audio and video streams, codecs, resolution, bitrate, duration and other technical properties.
+- Preview video thumbnails.
 
 ### 🎬 Audio & Video Editor
 
-- Built-in video preview
-- Waveform visualization
-- Synchronized audio/video playback
-- Timeline editing
-- Multi-segment trimming
-- Frame-accurate video positioning
-- ⚡ **SMART mode** — fast cutting without re-encoding when possible
-- 🎯 **PRECISE mode** — accurate encoding via libx264
-- Fast FFmpeg processing and concatenation
+- Preview video while editing.
+- View audio waveforms and edit on the timeline.
+- Play audio and video in sync.
+- Trim multiple segments.
+- Navigate video frame by frame.
+- Reorder clips by dragging them on the timeline.
+- Swap clips or remove them from the project.
+- Use ⚡ **SMART mode** for fast cuts without re-encoding when possible.
+- Use 🎯 **PRECISE mode** for accurate encoding via libx264.
+- Process and concatenate media with FFmpeg.
 
 ### 🎥 Screen & Window Recorder
 
-- Record the entire screen
-- Record individual application windows
-- System audio capture
-- Synchronized audio/video recording
-- Pause and resume recording
-- Audio continues correctly after mute/unmute
-- Stable recording during playback pauses
-- Native x64 recording engine
-- MP4 output
-- WGC-based screen/window capture
-- WASAPI system audio capture
-- Accurate audio/video timeline synchronization
+- Record the entire screen or individual application windows.
+- Capture system audio via WASAPI.
+- Pause and resume recording.
+- Save recordings as MP4.
+- Use Windows Graphics Capture (WGC) for screen and window capture.
+- Keep audio and video synchronized during recording.
 
 ### 🔗 URL History
 
-- Recent URL history directly on the download screen
-- Quick access to previously used URLs
-- YouTube thumbnail previews
-- Automatic duplicate detection
-- Previously used URLs are moved to the top
-- Up to 20 recent URLs are stored
-- History persists between application restarts
-- Selecting a history entry fills the URL field without starting a download
-- One-click history clearing
+- Access recent URLs directly from the download screen.
+- Preview YouTube thumbnails.
+- Automatically move duplicate URLs to the top.
+- Store up to 20 URLs between application restarts.
+- Select a history entry to fill the URL field without starting a download.
+- Clear the history with one click.
 
 ---
 
 ## 🌟 Why Oven Trio Studio?
 
-Oven Trio Studio is designed for users who regularly work with media
-and want to avoid switching between multiple applications.
-
-### Download → Inspect → Edit → Record
-
-Download your media, inspect exactly what is inside the file, edit it,
-or record your screen and application windows in the same application.
-
-- Fast media downloading
-- Detailed technical information
-- Audio waveform and video preview
-- Precise trimming
-- Original stream preservation when possible
-- Local processing with no cloud dependency
-- Persistent URL history for frequently used sources
-- Screen and window recording
-- System audio recording
-- Synchronized audio/video capture
-- Clean and focused Windows workflow
+Oven Trio Studio brings downloading, media inspection, editing and screen recording together in one Windows application. Work with media locally without switching between separate tools or relying on cloud processing.
 
 ---
 
-## 🆕 What's New in v2.2.0
+## 🆕 What's New in v2.3.0
 
 ### 🎥 Screen & Window Recording
 
-Version 2.2.0 introduces the native Recording Engine for screen,
-window and system audio capture.
+- Introduced the native Recording Engine for screen, window and system audio capture.
+- Added synchronized recording with pause and resume support.
+- Added MP4 recording output using WGC screen/window capture and WASAPI system audio.
+- Improved audio/video synchronization and recording stability.
 
-- Record the entire screen
-- Record individual application windows
-- System audio capture via WASAPI
-- Synchronized video and audio recording
-- Pause and resume recording
-- Stable audio timeline during pauses
-- Correct audio behavior during mute/unmute
-- Native x64 recording pipeline
-- MP4 recording output
-- WGC-based screen/window capture
-- Improved audio/video synchronization
-- Stable recording during long capture sessions
+### ✂️ Timeline Clip Editing
+
+- Added drag-and-drop clip reordering, quick swap and removal controls.
+- Clip controls appear only when the timeline contains multiple clips.
+- Fixed waveform samples appearing under the wrong clips after reordering or removal.
+- Fixed duplicate waveforms remaining at a clip’s previous timeline position.
+- Added Ukrainian and English tooltips for clip actions.
+- Updated tooltips with a compact dark theme.
 
 ### 🔗 URL History
 
-- Store recently used URLs
-- Quickly access previously used URLs
-- YouTube thumbnail previews
-- Duplicate URLs are automatically moved to the top
-- Up to 20 recent URLs are retained
-- History persists between application launches
-- Selecting a history entry does not start a download
-- Clear history with one click
+- Added recent URL history with thumbnail previews.
+- Added automatic duplicate detection and persistent history across application restarts.
+- Added one-click history clearing.
 
 ### 🔍 File Info
 
-- Fixed video preview thumbnail display
-- Improved preview loading and presentation
+- Fixed video preview thumbnail display.
+- Improved preview loading and presentation.
 
 ### ⚡ Performance
 
-- Improved download startup and loading performance
+- Improved download startup and loading performance.
 
 ---
 
 ## 📦 Download
 
-👉 Go to **[Releases](../../releases)** and download the latest version.
+Download the latest version using the button at the top of this page. Visit [Releases](../../releases) for previous versions.
 
-**Latest version: v2.2.0**
+**Latest version: v2.3.0**
 
 ### Windows
 
-- Windows 10 / 11
-- x64
-- Portable deployment
-- No separate .NET installation required for the self-contained release
+- Windows 10 / 11.
+- x64.
+- Portable deployment.
+- No separate .NET installation required for the self-contained release.
 
 ---
 
 ## ⭐ Support the Project
 
-If Oven Trio Studio is useful to you, consider giving the project a ⭐
-on GitHub.
+If Oven Trio Studio is useful to you, consider giving the project a ⭐ on GitHub.
 
 ---
 
 ## 💬 Support & Community
 
-If Oven Trio Studio helps you create, you can support its development:
-
-☕ **Buy Me a Coffee**
-
+☕ **Buy Me a Coffee**  
 https://buymeacoffee.com/oventriostudio
 
-💬 **Official Telegram Community**
-
+💬 **Official Telegram Community**  
 https://t.me/oventrio_support
 
-📧 **Direct Email**
-
+📧 **Direct Email**  
 Roman_Web@outlook.com
 
 ---
@@ -200,7 +156,7 @@ Roman_Web@outlook.com
 - Windows Graphics Capture (WGC)
 - WASAPI
 
-All media processing and recording are performed locally.
+Media processing and recording are performed locally.
 
 ---
 
