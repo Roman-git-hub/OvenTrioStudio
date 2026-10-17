@@ -1,6 +1,6 @@
 ## 🚀 Download
 
-👉 📦 [![Download](https://img.shields.io/badge/Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/latest/download/OvenTrioStudio-v2.3.1-win-x64.zip)
+👉 📦 [![Download](https://img.shields.io/badge/Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/latest/download/OvenTrioStudio-v2.3.2-win-x64.zip)
 
 [![Releases](https://img.shields.io/badge/View-All%20Releases-181717?style=for-the-badge&logo=github)](https://github.com/Roman-git-hub/OvenTrioStudio/releases)
 
@@ -76,7 +76,7 @@ Oven Trio Studio brings downloading, media inspection, editing and screen record
 
 ---
 
-## 🆕 What's New in v2.3.1
+## 🆕 What's New in v2.3.2
 
 ### 🎥 Screen & Window Recording
 
@@ -115,7 +115,7 @@ Oven Trio Studio brings downloading, media inspection, editing and screen record
 
 Download the latest version using the button at the top of this page. Visit [Releases](../../releases) for previous versions.
 
-**Latest version: v2.3.1**
+**Latest version: v2.3.2**
 
 ### Windows
 
