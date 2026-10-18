@@ -1,21 +1,22 @@
 ## 🚀 Download
 
-👉 📦 [![Download](https://img.shields.io/badge/Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/latest/download/OvenTrioStudio-v2.3.3-win-x64.zip)
+👉 📦 [![Download](https://img.shields.io/badge/Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/latest/download/OvenTrioStudio-v2.3.5-win-x64.zip)
 
 [![Releases](https://img.shields.io/badge/View-All%20Releases-181717?style=for-the-badge&logo=github)](https://github.com/Roman-git-hub/OvenTrioStudio/releases)
 
 # 🎬 Oven Trio Studio
 
-**Download. Inspect. Edit.**
+**Download. Inspect. Edit. Play. Record.**
 
-Oven Trio Studio is a Windows media toolkit that combines four essential media workflows in one application:
+Oven Trio Studio is a Windows media toolkit that combines five essential media workflows in one application:
 
 - 📥 **Downloader** — download media from supported online sources, including live streams.
 - 🔍 **File Info** — inspect media streams, codecs, metadata and technical details.
 - ✂️ **Editor** — trim and edit audio and video with waveform and video preview.
+- ▶️ **Player** — play media files with playback controls, queue navigation, repeat, volume control and diagnostic console.
 - 🎥 **Recorder** — record screens, individual windows and system audio with synchronized video and audio capture.
 
-> One application for downloading, understanding, editing and recording your media.
+> One application for downloading, understanding, editing, playing and recording your media.
 
 ---
 
@@ -50,6 +51,13 @@ Oven Trio Studio is a Windows media toolkit that combines four essential media w
 - Use 🎯 **PRECISE mode** for accurate encoding via libx264.
 - Process and concatenate media with FFmpeg.
 
+### ▶️ Media Player
+
+- Play one or multiple media files sequentially.
+- Navigate between tracks and repeat a file or the entire queue.
+- Control playback, seek through the timeline and adjust volume.
+- Show or hide the FFmpeg diagnostic console.
+
 ### 🎥 Screen & Window Recorder
 
 - Record the entire screen or individual application windows.
@@ -72,11 +80,11 @@ Oven Trio Studio is a Windows media toolkit that combines four essential media w
 
 ## 🌟 Why Oven Trio Studio?
 
-Oven Trio Studio brings downloading, media inspection, editing and screen recording together in one Windows application. Work with media locally without switching between separate tools or relying on cloud processing.
+Oven Trio Studio brings downloading, media inspection, editing, playback and screen recording together in one Windows application. Work with media locally without switching between separate tools or relying on cloud processing.
 
 ---
 
-## 🆕 What's New in v2.3.3
+## 🆕 What's New in v2.3.5
 
 ### 🎥 Screen & Window Recording
 
@@ -115,7 +123,7 @@ Oven Trio Studio brings downloading, media inspection, editing and screen record
 
 Download the latest version using the button at the top of this page. Visit [Releases](../../releases) for previous versions.
 
-**Latest version: v2.3.3**
+**Latest version: v2.3.5**
 
 ### Windows
 
