@@ -1,28 +1,27 @@
 
 ## 🚀 Download
 
-<div align="right">
-  <details>
-    <summary><strong>📸 VIEW SCREENSHOTS (5) — CLICK TO OPEN</strong></summary>
+<details>
+<summary><strong>📸 VIEW SCREENSHOTS (5) — CLICK TO OPEN</strong></summary>
 
-    <h3>🎬 Oven Trio Studio — Screenshots</h3>
+<h3>🎬 Oven Trio Studio — Screenshots</h3>
 
-    <p><strong>📥 Downloader — Main Window</strong></p>
-    <img src="docs/screenshots/downloader.png" width="650" alt="Oven Trio Studio Downloader">
+<p><strong>📥 Downloader — Main Window</strong></p>
+<p><img src="docs/screenshots/downloader.png" width="650" alt="Oven Trio Studio Downloader"></p>
 
-    <p><strong>✂️ Audio & Video Editor — Trim and Preview</strong></p>
-    <img src="docs/screenshots/editor.png" width="850" alt="Oven Trio Studio Editor">
+<p><strong>✂️ Audio & Video Editor — Trim and Preview</strong></p>
+<p><img src="docs/screenshots/editor.png" width="850" alt="Oven Trio Studio Editor"></p>
 
-    <p><strong>▶️ Media Player</strong></p>
-    <img src="docs/screenshots/player.png" width="350" alt="Oven Trio Studio Media Player">
+<p><strong>▶️ Media Player</strong></p>
+<p><img src="docs/screenshots/player.png" width="350" alt="Oven Trio Studio Media Player"></p>
 
-    <p><strong>🎥 Screen & Audio Recorder</strong></p>
-    <img src="docs/screenshots/recorder.png" width="550" alt="Oven Trio Studio Recorder">
+<p><strong>🎥 Screen & Audio Recorder</strong></p>
+<p><img src="docs/screenshots/recorder.png" width="550" alt="Oven Trio Studio Recorder"></p>
 
-    <p><strong>🔄 Media Converter</strong></p>
-    <img src="docs/screenshots/converter.png" width="850" alt="Oven Trio Studio Media Converter">
-  </details>
-</div>
+<p><strong>🔄 Media Converter</strong></p>
+<p><img src="docs/screenshots/converter.png" width="850" alt="Oven Trio Studio Media Converter"></p>
+
+</details>
 
 👉 📦 [![Download](https://img.shields.io/badge/Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/latest/download/OvenTrioStudio-v2.4.2-win-x64.zip)
 
