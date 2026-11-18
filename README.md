@@ -1,4 +1,28 @@
+
 ## 🚀 Download
+
+<div align="right">
+  <details>
+    <summary><strong>📸 VIEW SCREENSHOTS (5) — CLICK TO OPEN</strong></summary>
+
+    <h3>🎬 Oven Trio Studio — Screenshots</h3>
+
+    <p><strong>📥 Downloader — Main Window</strong></p>
+    <img src="docs/screenshots/downloader.png" width="650" alt="Oven Trio Studio Downloader">
+
+    <p><strong>✂️ Audio & Video Editor — Trim and Preview</strong></p>
+    <img src="docs/screenshots/editor.png" width="850" alt="Oven Trio Studio Editor">
+
+    <p><strong>▶️ Media Player</strong></p>
+    <img src="docs/screenshots/player.png" width="350" alt="Oven Trio Studio Media Player">
+
+    <p><strong>🎥 Screen & Audio Recorder</strong></p>
+    <img src="docs/screenshots/recorder.png" width="550" alt="Oven Trio Studio Recorder">
+
+    <p><strong>🔄 Media Converter</strong></p>
+    <img src="docs/screenshots/converter.png" width="850" alt="Oven Trio Studio Media Converter">
+  </details>
+</div>
 
 👉 📦 [![Download](https://img.shields.io/badge/Download-Windows%20x64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Roman-git-hub/OvenTrioStudio/releases/latest/download/OvenTrioStudio-v2.4.2-win-x64.zip)
 
@@ -113,7 +137,7 @@ Oven Trio Studio brings downloading, media inspection, editing, playback and scr
 - Added drag-and-drop clip reordering, quick swap and removal controls.
 - Clip controls appear only when the timeline contains multiple clips.
 - Fixed waveform samples appearing under the wrong clips after reordering or removal.
-- Fixed duplicate waveforms remaining at a clip’s previous timeline position.
+- Fixed duplicate waveforms remaining at a clip's previous timeline position.
 - Added Ukrainian and English tooltips for clip actions.
 - Updated tooltips with a compact dark theme.
 
