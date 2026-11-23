@@ -206,10 +206,32 @@ Media processing and recording are performed locally.
 
 ---
 
-## ⚠ License Notice
+## 📄 License
 
-This application uses FFmpeg under the LGPL license.
+Oven Trio Studio is distributed as freeware under a proprietary license.
+
+You may download, install, and use official releases free of charge for personal and commercial purposes.
+
+Copyright © 2026 Roman-git-hub. All rights reserved.
+
+See [LICENSE](LICENSE) for full terms.
+
+### 🔒 Official Distribution & Security
+
+Official Oven Trio Studio releases are distributed exclusively through this GitHub repository.
+
+Modified, repackaged, or third-party distributions are not authorized by the developer and must not be represented as official releases.
+
+For your security, download the application only from the official [GitHub Releases](https://github.com/Roman-git-hub/OvenTrioStudio/releases) page.
+
+### ⚖️ Third-Party Software
+
+Oven Trio Studio uses FFmpeg and other third-party components.
+
+These components remain subject to their respective licenses, including applicable LGPL or GPL requirements.
+
+The proprietary license applies only to the original software components owned by the developer and does not restrict rights granted by third-party open-source licenses.
 
 ---
 
-© 2026 Oven Trio Studio
+© 2026 Oven Trio Studio. All rights reserved.
