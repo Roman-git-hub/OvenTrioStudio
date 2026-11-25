@@ -118,7 +118,7 @@ Oven Trio Studio brings downloading, media inspection, editing, playback and scr
 
 ---
 
-## 🆕 What's New in v2.4.5
+## 🆕 What's New in v2.4.2
 
 ### 🔄 Media Converter
 
@@ -163,7 +163,7 @@ Oven Trio Studio brings downloading, media inspection, editing, playback and scr
 
 Download the latest version using the button at the top of this page. Visit [Releases](../../releases) for previous versions.
 
-**Latest version: v2.4.5**
+**Latest version: v2.4.2**
 
 ### Windows
 
