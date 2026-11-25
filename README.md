@@ -1,25 +1,27 @@
-
 ## 🚀 Download
 
 <details>
-<summary><strong>📸 VIEW SCREENSHOTS (5) — CLICK TO OPEN</strong></summary>
+<summary><strong>📸 VIEW SCREENSHOTS (6) — CLICK TO OPEN</strong></summary>
 
 <h3>🎬 Oven Trio Studio — Screenshots</h3>
 
 <p><strong>📥 Downloader — Main Window</strong></p>
 <p><img src="docs/screenshots/downloader.png" width="650" alt="Oven Trio Studio Downloader"></p>
 
-<p><strong>✂️ Audio & Video Editor — Trim and Preview</strong></p>
+<p><strong>✂️ Audio &amp; Video Editor — Trim and Preview</strong></p>
 <p><img src="docs/screenshots/editor.png" width="850" alt="Oven Trio Studio Editor"></p>
 
 <p><strong>▶️ Media Player</strong></p>
 <p><img src="docs/screenshots/player.png" width="350" alt="Oven Trio Studio Media Player"></p>
 
-<p><strong>🎥 Screen & Audio Recorder</strong></p>
+<p><strong>🎥 Screen &amp; Audio Recorder</strong></p>
 <p><img src="docs/screenshots/recorder.png" width="550" alt="Oven Trio Studio Recorder"></p>
 
 <p><strong>🔄 Media Converter</strong></p>
 <p><img src="docs/screenshots/converter.png" width="850" alt="Oven Trio Studio Media Converter"></p>
+
+<p><strong>📊 File Info — Advanced Media Analysis</strong></p>
+<p><img src="docs/screenshots/file-info.png" width="850" alt="Oven Trio Studio File Info and Media Analysis"></p>
 
 </details>
 
